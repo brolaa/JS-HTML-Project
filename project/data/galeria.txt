@@ -1,0 +1,64 @@
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz1.png" data-lightbox="galeria" data-title="Akropol, Ateny, Grecja"><img class="img-fluid" src="assets/pictures/obraz1.png" alt="obraz1"/></a>
+    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz2.png" data-lightbox="galeria" data-title="Ogrody Augusta, Wyspa Capri, Włochy"><img class="img-fluid" src="assets/pictures/obraz2.png" alt="obraz2"/></a>
+    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz3.png" data-lightbox="galeria" data-title="Most Złotników, Neapol, Włochy"><img class="img-fluid" src="assets/pictures/obraz3.png" alt="obraz3"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz4.png" data-lightbox="galeria" data-title="Paestum, Włochy"><img class="img-fluid" src="assets/pictures/obraz4.png" alt="obraz4"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz5.png" data-lightbox="galeria" data-title="Klif Orłowski, Gdynia, Polska"><img class="img-fluid" src="assets/pictures/obraz5.png" alt="obraz5"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz6.png" data-lightbox="galeria" data-title="Wielki Meteor, Meteory, Grecja"><img class="img-fluid" src="assets/pictures/obraz6.png" alt="obraz6"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz7.png" data-lightbox="galeria" data-title="Kanał Koryncki, Korynt, Grecja"><img class="img-fluid" src="assets/pictures/obraz7.png" alt="obraz7"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz8.png" data-lightbox="galeria" data-title="Stary Most, Mostar, Bośnia i Hercegowina"><img class="img-fluid" src="assets/pictures/obraz8.png" alt="obraz8"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz9.png" data-lightbox="galeria" data-title="Jezioro Ochrydzkie, Ochryda, Macedonia Północna"><img class="img-fluid" src="assets/pictures/obraz9.png" alt="obraz9"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz10.png" data-lightbox="galeria" data-title="Rynek, Wrocław, Polska"><img class="img-fluid" src="assets/pictures/obraz10.png" alt="obraz10"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz11.png" data-lightbox="galeria" data-title="Most Karola, Praga, Czechy"><img class="img-fluid" src="assets/pictures/obraz11.png" alt="obraz11"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz12.png" data-lightbox="galeria" data-title="Zamek w Mosznej, Moszna, Polska"><img class="img-fluid" src="assets/pictures/obraz12.png" alt="obraz12"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz13.png" data-lightbox="galeria" data-title="Plaża Kleopatry, Alanya, Turcja"><img class="img-fluid" src="assets/pictures/obraz13.png" alt="obraz13"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz14.png" data-lightbox="galeria" data-title="Plaża, Alanya, Turcja"><img class="img-fluid" src="assets/pictures/obraz14.png" alt="obraz14"/></a>                    </div>
+</div>
+<div class="col mb-4">
+    <div class="card">
+        <a href="assets/pictures/obraz15.png" data-lightbox="galeria" data-title="Rękawica, Ojcowski Park Narodowy, Polska"><img class="img-fluid" src="assets/pictures/obraz15.png" alt="obraz15"/></a>                    </div>
+</div>
+</div>

@@ -1,0 +1,92 @@
+[
+    {   
+        "picture":"obraz1.png",
+        "title":"Ateny",
+        "date":"7 Lipiec, 2019",
+        "description": "Partenon (gr. Παρθενών, Parthenṓn) – świątynia poświęcona Atenie Partenos (pol. Atenie Dziewicy) na akropolu ateńskim, wzniesiona w połowie V w. p.n.e. według planów Iktinosa i Kallikratesa pod nadzorem Fidiasza, który wykonał również elementy rzeźbiarskie. Zbudowana z białego marmuru pentelickiego w zgodzie z porządkiem doryckim, uważana za najdoskonalszy jego przykład."
+    },
+    {
+        "picture":"obraz2.png",
+        "title":"Capri",
+        "date":"13 Lipiec, 2018", 
+        "description": "Niewielka, o wydłużonym kształcie, górzysta wyspa zbudowana jest ze skał wapiennych (pobliska Ischia jest pochodzenia wulkanicznego). Jej powierzchnia wynosi 10,4 km² a obwód 17,0 km, najwyższe wzniesienie to Monte Solaro (596 m n.p.m.), na którym znajdują się ruiny zamku. Na wierzchołek ów można wjechać wyciągiem krzesełkowym z miasteczka Anacapri."
+    },
+    {
+        "picture":"obraz3.png",
+        "title":"Florencja",
+        "date":"9 Lipiec, 2018",
+        "description": "Most Złotników – najstarszy z florenckich mostów, na rzece Arno. Został zbudowany z ciosów kamiennych w latach 1335–1345 według projektu Neriego di Fioravante i Taddeo Gaddi w tym samym miejscu, w którym postawiono pierwszy, drewniany most już w okresie starożytnego Rzymu. Zbudowane w czasach późniejszych kolejne dwa mosty zostały zniszczone w wyniku powodzi w latach 1117 i 1333. Zatem jest to czwarta konstrukcja spinająca brzegi rzeki w tym samym miejscu."
+    },
+    {
+        "picture":"obraz4.png",
+        "title":"Paestum",
+        "date":"17 Lipiec, 2018",
+        "description": "Paestum (gr. Posejdonia, łac. Paestum) – w starożytności kolonia grecka miasta Sybaris. Obecnie dzielnica miasta Capaccio w regionie Kampania, w prowincji Salerno. Położone jest na południe od Neapolu na wybrzeżu Morza Tyrreńskiego (Zatoka Salerno). Prace archeologiczne rozpoczął w 1907 roku włoski archeolog Vittorio Spinazzola. Aktualnie pozostałości miasta są parkiem archeologicznym."
+    },  
+    {
+        "picture":"obraz5.png",
+        "title":"Gdynia",
+        "date":"20 Luty, 2019",
+        "description": "Klif Orłowski – stromy brzeg morski Kępy Redłowskiej w Gdyni, znajdujący się w granicach dzielnicy Redłowo, a najlepiej dostrzegalny ze znajdującej się w bezpośrednim sąsiedztwie dzielnicy Orłowo. Inne nazwy to Klif w Redłowie, Cypel Orłowski lub Orla Głowa. Na skutek abrazji ściana urwiska cofa się średnim tempie 1 m rocznie."
+    },   
+    {
+        "picture":"obraz6.png",
+        "title":"Meteory",
+        "date":"5 Lipiec, 2019",
+        "description": "Na szczytach skał umiejscowiony jest zespół 24 prawosławnych klasztorów (monastyrów). Początkowo wszelkie materiały potrzebne do budowy i życia mnichów wciągane były na linach, również odwiedzający mogli dostać się do monastyrów jedynie w taki sposób. Obecnie część z monastyrów udostępniona jest dla zwiedzających i dla ich wygody wybudowano schody i pomosty."
+    },
+    {
+        "picture":"obraz7.png",
+        "title":"Korynt",
+        "date":"5 Lipiec, 2019",
+        "description": "Kanał Koryncki (gr. Διώρυγα της Κορίνθου – kanał wodny żeglugi morskiej w Grecji, łączący Morze Egejskie (Zatoka Sarońska) z Morzem Jońskim (Zatoka Koryncka). Kanał ten przecina Przesmyk Koryncki, oddzielając tym samym półwysep Peloponez od głównej części Grecji, czyniąc go faktycznie wyspą. Niemal u wylotu Kanału Korynckiego leżą miasta Korynt i Lutraki."
+    },
+    {
+        "picture":"obraz8.png", 
+        "title":"Mostar", 
+        "date":"13 Lipiec, 2019", 
+        "description": "Mostar – miasto w Bośni i Hercegowinie, w Federacji Bośni i Hercegowiny, stolica kantonu hercegowińsko-neretwiańskiego, siedziba miasta Mostar. Jest położony nad Neretwą. Stanowi jeden z największych ośrodków miejskich w kraju. W 2013 roku liczyło 60 195 mieszkańców, z czego większość stanowili Chorwaci."
+    },
+    {
+        "picture":"obraz9.png", 
+        "title":"Ochryda", 
+        "date":"13 Lipiec, 2018", 
+        "description": "Dzisiejsza Ochryda stoi na miejscu starożytnych miast Diassarites i Lychnidos. Przez miasto przebiegała Via Egnatia. Chrześcijaństwo zapuściło korzenie w mieście już w IV wieku. Nocą z 29 na 30 maja 526 miasto zostało całkowicie zniszczone przez trzęsienie ziemi, a następnie na rozkaz cesarza Justyniana odbudowane jako Iustiniana Prima – stolica prefektury Ilirii i metropolia kościelna naddunajskich ziem cesarstwa."
+    },
+    {
+        "picture":"obraz10.png", 
+        "title":"Wrocław", 
+        "date":"24 Lipiec, 2019", 
+        "description": "Wrocław jest jednym z najstarszych miast Polski pod względem lokacji na prawach miejskich. W czasach antycznych w miejscu lub okolicach Wrocławia istniała miejscowość o nazwie Budorgis. Została ona odwzorowana na antycznej mapie Klaudiusza Ptolemeusza z lat 142–147 n.e. O tym, że miejscowość ta znajdowała się w miejscu lub okolicach Wrocławia, informuje Lexicon Universale oraz wynika to z położenia wśród innych zidentyfikowanych miejscowości Śląska." 
+    },
+    {
+        "picture":"obraz11.png", 
+        "title":"Praga", 
+        "date":"27 Lipiec, 2019", 
+        "description": "Praga (cz. Praha, niem. Prag), miasto stołeczne Praga (cz. hlavní město Praha) – stolica i największe miasto Czech, położone w zachodniej części kraju, w środkowej części krainy Czechy, nad Wełtawą. Jest miastem wydzielonym na prawach kraju, będąc jednocześnie stolicą kraju środkowoczeskiego."
+    },
+    {
+        "picture":"obraz12.png", 
+        "title":"Zamek w Mosznej", 
+        "date":"30 Lipiec, 2019", 
+        "description": "Pałac w Mosznej (niem. Schloss Moschen) – zabytkowa rezydencja położona we wsi Moszna, w województwie opolskim, pomiędzy miastami Prudnik i Krapkowice. Jest jednym z najbardziej znanych obiektów zabytkowych na ziemi opolskiej. Od 1866 do 1945 roku był rezydencją śląskiego rodu Tiele-Wincklerów, potentatów przemysłowych."
+    },
+    {
+        "picture":"obraz13.png", 
+        "title":"Alanya", 
+        "date":"4 Lipiec, 2021", 
+        "description": "Alanya – miasto i dystrykt w południowej Turcji, w prowincji Antalya, na Riwierze Tureckiej, nad Morzem Śródziemnym. Od strony lądu otoczona górami Taurus. Zlokalizowana na terenie starożytnej Pamfilii. Jeden z największych tureckich kurortów wypoczynkowych, usytuowany 135 km na wschód od Antalyi."
+    },  
+    {
+        "picture":"obraz14.png", 
+        "title":"Prowincja Antalya", 
+        "date":"6 Lipiec, 2021", 
+        "description": "Antalya – prowincja w Turcji, w południowej części kraju nad Zatoką Antalya (Morze Śródziemne) ze stolicą w mieście Antalya. Graniczy z prowincjami: Mersin na wschodzie, Konya i Karaman na północnym wschodzie, Isparta i Burdur na północy oraz Muğla na zachodzie. Zajmuje powierzchnię 20 591 km², mieszka tu ponad 2 mln ludzi."
+    },
+    {
+        "picture":"obraz15.png",
+         "title":"Ojcowski Park Narodowy", 
+         "date":"6 Sierpień, 2021", 
+         "description": "Pod względem geograficznym znajduje się na Wyżynie Olkuskiej w południowej części Wyżyny Krakowsko-Częstochowskiej. Obejmuje środkową część Doliny Prądnika, część Doliny Sąspowskiej wraz z przyległymi częściami wierzchowiny jurajskiej. Jest najmniejszym z polskich parków narodowych. Jego symbolem jest nietoperz."
+    }
+]
